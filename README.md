@@ -9,4 +9,4 @@ Hardware:
 
 Transmitrs sensor measurements every 5.5 minutes (approx).
 Power supply 2xAA batteries (3V)
-Standby current ~70uA (power led led and linear stabilizer are removed)
+Standby current ~70uA (power led and linear stabilizer are removed)
