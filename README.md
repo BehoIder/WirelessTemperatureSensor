@@ -1,7 +1,7 @@
 # WirelessTemperatureSensor
 Wireless weather sensor (BMP280) for meteostation
 
-Used for Nixie Clock meteostation project.
+Used for Nixie Clock meteo station project.
 Hardware: 
 1. LGT8F328P SSOP20 m/c board
 2. BMP280 sensor
